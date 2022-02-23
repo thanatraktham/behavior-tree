@@ -1,0 +1,4 @@
+repository "BehaviorTreeTest2@GNIFING@cloud"
+  path "/"
+    br "/main"
+    co "/main"
